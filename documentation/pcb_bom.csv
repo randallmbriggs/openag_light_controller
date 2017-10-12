@@ -1,0 +1,29 @@
+Qty,Description,Unit Cost,Sum Cost,MFG,MFG P/N,Vendor,Vendor P/N,Link
+MICROCONTROLLERS,,,,,,,,
+1,IC MCU 32BIT 8KB FLASH 16SOIC,1.18,1.18,Cypress Semiconductor Corp,CY8C4013SXI-411,Digikey,CY8C4013SXI-411-ND,https://www.digikey.com/product-detail/en/cypress-semiconductor-corp/CY8C4013SXI-411/CY8C4013SXI-411-ND/4842997
+
+REGULATORS,,,,,,,,
+1,IC REG LINEAR 5V 100MA SOT23-3,0.92,0.92,Texas Instruments,LM3480IM3-5.0/NOPB,Digikey,LM3480IM3-5.0/NOPBCT-ND,https://www.digikey.com/product-detail/en/texas-instruments/LM3480IM3-5.0-NOPB/LM3480IM3-5.0-NOPBCT-ND/270751?WT.srch=1&gclid=Cj0KCQjwgIPOBRDnARIsAHA1X3QuLGQe3q2Y9KcDRjClPOcUGqtjmfiUhgova6QJF5bhBFE-W-3abPsaAse3EALw_wcB
+6,LED SUPPLY CC BUCK 2-35V 700MA,Recom Power,RCD-24-0.70,Digikey,945-1123-ND,https://www.digikey.com/product-detail/en/recom-power/RCD-24-0.70/945-1123-ND/2256303
+
+DIODES,,,,,,,,
+?,DIODE GEN PURP 75V 200MA SOT23-3,0.2,?,Diodes Incorporated,MMBD4148-7-F,Digikey,MMBD4148-FDICT-ND,https://www.digikey.com/product-detail/en/diodes-incorporated/MMBD4148-7-F/MMBD4148-FDICT-ND/815711
+1,TVS DIODE 14VWM 23.2VC SMA,0.42,0.42,Littlefuse,SMAJ14A,Digikey,SMAJ14ALFCT-ND,https://www.digikey.com/product-detail/en/littelfuse-inc/SMAJ14A/SMAJ14ALFCT-ND/762486
+?,LED BLUE CLEAR 0603 SMD,0.49,?,Kingbright,APT1608QBC/D,Digikey,754-1434-1-ND,https://www.digikey.com/product-detail/en/kingbright/APT1608QBC-D/754-1434-1-ND/2163792
+
+CAPACITORS,,,,,,,,
+1,CAP CER 0.1UF 50V X7R 1206,0.69,0.69,Johansen Dielectrics,500X18W104MV4E,Digikey,709-1013-1-ND,https://www.digikey.com/product-detail/en/johanson-dielectrics-inc/500X18W104MV4E/709-1013-1-ND/1556418
+
+RELAYS,,,,,,,,
+?,RELAY GEN PURPOSE SPDT 10A 12V,1.33,?,Omron Electronics,G5LE-14 DC12,Digikey,Z1012-ND,https://www.digikey.com/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369
+
+INDUCTORS,,,,,,,
+1,FIXED IND 120UH 790MA 520 MOHM,1.23,1.23,Wurth Electronics,74404064121,Digikey,732-7258-1-ND,https://www.digikey.com/product-detail/en/wurth-electronics-inc/74404064121/732-7258-1-ND/5353238
+
+SWITCHES,,,,,,,,
+?,SWITCH TACTILE SPST-NO 0.05A 24V,0.37,?,Omron Electronics,B3F-1020,Digikey,SW402-ND,https://www.digikey.com/products/en?keywords=B3F-1020
+
+ISOLATORS,,,,,,,,
+1,DGTL ISO 2.5KV 2CH I2C 8SOIC,4.91,4.91,Texas Instruments,ISO1540DR,Digikey,296-34871-1-ND,https://www.digikey.com/product-detail/en/texas-instruments/ISO1540DR/296-34871-1-ND/3587214
+
+
